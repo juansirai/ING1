@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T17:39:37.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7ez1Bt-m8iV8M-XXJuKh" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T20:06:03.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4RgVQdBcgou1qOUv0_1q" version="23.1.5" type="github">
   <diagram name="Página-1" id="61UtU9jQJO7EmY_0X5pV">
     <mxGraphModel dx="1341" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,19 +14,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kjov9-EhQF5p59se_SMZ-3" value="Renovar Pasaporte" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="250" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kjov9-EhQF5p59se_SMZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kjov9-EhQF5p59se_SMZ-4" target="Kjov9-EhQF5p59se_SMZ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kjov9-EhQF5p59se_SMZ-4" value="Usuario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Kjov9-EhQF5p59se_SMZ-4" value="Ciudadano" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="250" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kjov9-EhQF5p59se_SMZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kjov9-EhQF5p59se_SMZ-6" target="Kjov9-EhQF5p59se_SMZ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kjov9-EhQF5p59se_SMZ-6" value="Usuario Argentino" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="430" width="30" height="60" as="geometry" />
+          <mxGeometry x="70" y="460" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kjov9-EhQF5p59se_SMZ-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Kjov9-EhQF5p59se_SMZ-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
